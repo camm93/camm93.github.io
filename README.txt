@@ -1,4 +1,4 @@
-To check the portfolio please follow this link [https://camm93.github.io/](https://camm93.github.io/)
+To check the portfolio please follow this link https://camm93.github.io/
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
