@@ -1,0 +1,23 @@
+.cell-body {
+    padding-inline: 10px;
+}
+
+.grid-wrapper {
+    background-color: rgb(33, 52, 52);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-cell {
+    background-color: rgb(252, 252, 252);
+    border-radius: 5px;
+    margin-inline: 2px; 
+    margin-block: 2px;
+}
+
+.grid-cell h3{
+    background-color: rgba(150, 104, 63, 0.334);
+    border: 1px solid rgb(250, 253, 253);
+    padding: 3px;
+    text-align: center;
+}
